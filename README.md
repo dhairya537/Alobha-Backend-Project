@@ -158,11 +158,6 @@ Implemented using Pino logger for:
 
 ---
 
-## Important Note
-
-I apologize for not pushing the project earlier to GitHub, as I am still learning repository management. The project is now uploaded properly with complete source code.
-
----
 
 ## Author
 
